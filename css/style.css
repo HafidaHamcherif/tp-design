@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(255, 98, 125);
+}
+
+#section{
+    margin-top: 2%;
+}
+
+.recherche{
+    border-radius:50px;
+    width: 50%;
+    background-color: rgb(226, 226, 226);
+    border:none;
+}
+
+.picture .image{
+    border:black 1px solid;
+    border-radius: 100%;
+    width: 10%;
+    height: 10%;
+    
+}
+
+.image{
+    width:50% ;
+    height: 50%;
+}
+
+#menu{
+    background-color: rgb(61, 61, 61);
+    height: 100%;
+    width: 110%;
+    
+}
+
+#menu a{
+    color: white;
+}
+
+#menu a:hover{
+    background-color: rgb(255, 98, 125);
+    
+}
+
+
+.img{
+    width: 33.5%;
+    margin-left: -5px;
+}
+
+#barre{
+    background-color:white ;
+    width: 101%;
+}
+
+#rowblanck{
+    background-color: #F5F5F5;
+    width: 101%;
+   
+}
+
+
+#card{
+    margin: 1%;
+}
+
+#card p{
+    margin: 3%;
+}
+
+#card img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: -8%;
+    border: white solid 1px;
+
+}
+
+#card2 img{
+    margin: 0%;
+    margin-left: 4%;
+}
+
+#card2 .profil{
+    display: flex;
+    flex-direction: row;
+}
